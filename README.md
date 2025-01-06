@@ -5,7 +5,7 @@
   <img
   src="/screenshots/q1.png"
   alt="Q1">
-  <figcaption>Q1</figcaption>
+  <figcaption>Q1 worksheet</figcaption>
 </figure>
 <br/><br/>
 <br/><br/>
@@ -14,7 +14,7 @@
   <img
   src="/screenshots/q2.png"
   alt="Q2">
-  <figcaption>Q2</figcaption>
+  <figcaption>Q2 worksheet</figcaption>
 </figure>
 <br/><br/>
 <br/><br/>
@@ -23,7 +23,7 @@
   <img
   src="/screenshots/q3.png"
   alt="Q3">
-  <figcaption>Q3</figcaption>
+  <figcaption>Q3 worksheet</figcaption>
 </figure>
 <br/><br/>
 <br/><br/>
@@ -32,7 +32,7 @@
   <img
   src="/screenshots/q4.png"
   alt="Q4">
-  <figcaption>Q4</figcaption>
+  <figcaption>Q4 worksheet</figcaption>
 </figure>
 
 ## Storing prices?
@@ -44,6 +44,6 @@ below the lines that i find more rational to use are underlined in $${\color{gre
 
 <figure>
   <img
-  src="/screenshots/storage_lines.png"
+  src="/screenshots/storage_code.png"
   alt="Lines">
 </figure>
